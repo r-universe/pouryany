@@ -3,8 +3,3 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "PanomiR"]
-	path = PanomiR
-	url = https://github.com/pouryany/panomir
-	shallow = true
-	registered = true
